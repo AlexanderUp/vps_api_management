@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'djoser',
     'vps.apps.VpsConfig',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
